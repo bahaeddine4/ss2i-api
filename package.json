@@ -1,0 +1,25 @@
+{
+  "name": "ss2i-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahaeddine4/ss2i-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahaeddine4/ss2i-api/issues"
+  },
+  "homepage": "https://github.com/bahaeddine4/ss2i-api#readme",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "express": "^4.16.4",
+    "graphql": "^14.2.1",
+    "mongoose": "^5.5.5"
+  }
+}
